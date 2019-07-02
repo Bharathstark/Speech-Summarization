@@ -19,7 +19,7 @@ http://www.openslr.org/12/   ---librespeech
 https://annotator.freesound.org/fsd/  ---not useful
 
 
-#Algortithyms
+# Algortithyms
 
 https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/kernels
@@ -29,7 +29,7 @@ https://www.svds.com/tensorflow-rnn-tutorial/
 https://github.com/topics/automatic-speech-recognition
 
 
-#Audio Analysis
+# Audio Analysis
 
 https://towardsdatascience.com/audio-processing-in-tensorflow-208f1a4103aa
 https://data-flair.training/blogs/tensorflow-audio-recognition/
